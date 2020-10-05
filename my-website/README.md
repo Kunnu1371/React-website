@@ -1,9 +1,10 @@
 
 
-## Run in your pc
+# Run in your pc
 
 ## Clone the project using following command
-$ `` <br>
+$ `git clone https://github.com/Kunnu1371/React-website.git` <br>
+## Now run
 $ `cd my-website` <br>
 $ `npm start` <br>
 
