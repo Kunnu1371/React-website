@@ -1,4 +1,4 @@
-# React-website
+# React-website (reactjs project)
 
 ## Clone the project using following command
 $ `git clone https://github.com/Kunnu1371/React-website.git` <br>
